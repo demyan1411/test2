@@ -16,7 +16,8 @@
 			<div class="wrapp">
 				<div class="logo"><img src="img/logo.png" height="100" width="273" alt="Logotip"></div>
 				<div class="header_phone">
-
+					<span class="phone">+7(499) 777-77-77</span>
+					<span class="phone">+7(499) 777-77-77</span>
 				</div>
 			</div>
 		</header>
